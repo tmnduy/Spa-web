@@ -6,7 +6,7 @@
 
 .header {
     height: 475px;
-    background-image: url("/Assets/img/header-spa.jpg");
+    background-image: url("../Assets/img/header-spa.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
