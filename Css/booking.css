@@ -1,0 +1,43 @@
+.booking {
+    width: 100%;
+    text-align: left;
+}
+
+.form-tlt {
+    font-size: 3.5rem;
+    color: var(--text-color);
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+
+.form-input-btn {
+    padding: 20px 50px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+.bk-form {
+    text-align: center;
+}
+
+.bk-info {
+    margin-top: 10%;
+    padding-left: 50px;
+}
+
+.bk-info-tlt {
+    font-size: 3rem;
+    color: var(--text-color);
+    margin: 20px 0;
+}
+
+.bk-info-text {
+    font-size: 1.4rem;
+    line-height: 2rem;
+    list-style: georgian;
+}

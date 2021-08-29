@@ -78,6 +78,10 @@ hr {
     padding: 0 20px;
 }
 
+.nav-booking>a {
+    color: var(--white-color);
+}
+
 .slogan {
     display: block;
     padding: 40px 120px;

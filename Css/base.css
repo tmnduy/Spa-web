@@ -84,6 +84,11 @@ a {
     width: 50%;
 }
 
+.grid__col-8 {
+    padding-left: 12px;
+    padding-left: 12px;
+    width: 66%;
+}
 
 .grid__col-10 {
     padding-left: 12px;
