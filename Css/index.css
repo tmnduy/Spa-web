@@ -78,10 +78,6 @@ hr {
     padding: 0 20px;
 }
 
-.nav-booking>a {
-    color: var(--white-color);
-}
-
 .slogan {
     display: block;
     padding: 40px 120px;
@@ -102,6 +98,7 @@ hr {
     padding: 10px 30px 10px 10px;
     margin-top: 20px;
 }
+
 
 .content {
     width: 100%;

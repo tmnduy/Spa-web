@@ -117,3 +117,7 @@ a {
     background-position: left;
     cursor: pointer;
 }
+
+.btn>a {
+    color: var(--white-color);
+}
